@@ -1,6 +1,6 @@
 # 🎮 AI Problem Solving Assignment — Interactive Game AI
 
-> **Repository:** `AI_ProblemSolving_Ra2411026050212`
+> **Repository:** `AI_ProblemSolving_Ra2411026050211`
 > **Course:** Artificial Intelligence — Problem Solving Assignment
 > **Live Demo:** [http://localhost:5000](http://localhost:5000)
 
@@ -144,7 +144,7 @@ Write a Python program where the user can input and solve a Sudoku puzzle throug
 ## 📁 Project Structure
 
 ```
-AI_ProblemSolving_Ra2411026050212/
+AI_ProblemSolving_Ra2411026050211/
 │
 ├── app.py                          # Flask server (both problems)
 ├── requirements.txt                # Python dependencies
@@ -189,8 +189,8 @@ AI_ProblemSolving_Ra2411026050212/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/AI_ProblemSolving_Ra2411026050212.git
-cd AI_ProblemSolving_Ra2411026050212
+git clone https://github.com/<your-username>/AI_ProblemSolving_Ra2411026050211.git
+cd AI_ProblemSolving_Ra2411026050211
 ```
 
 ### Step 2: Install Dependencies
@@ -252,7 +252,7 @@ http://localhost:5000
 
 | Name | Register Number | Role |
 |------|----------------|------|
-| **Ram Kishore R** | RA2411026050212 | Developer |
+| **Ram Kishore R** | RA2411026050211 | Developer |
 | **Yashwanth** | RA2411026050209 | Developer |
 
 ---
